@@ -1,0 +1,19 @@
+# FastAPI Backend
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+
+# LangChain
+langchain
+langchain-groq
+langchain-community
+langchain-core
+
+# Streamlit Frontend
+streamlit
+requests
+
+# Optional: For production
+# redis==5.0.1  # For session storage
+# sqlalchemy==2.0.23  # For database
